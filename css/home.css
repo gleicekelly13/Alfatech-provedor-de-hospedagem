@@ -96,3 +96,42 @@
 .container-texto p {
     font-size: 16px;
 }
+
+/*Seção Primeiro Anúncio */
+.container-primeiro-anuncio {
+    background-color: #233032;
+    color: #fff;
+    padding: 40px 0px;
+    
+}
+
+.primeiro-anuncio-itens {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.primeiro-anuncio-textos h2 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.primeiro-anuncio-textos p {
+    font-size: 16px;
+}
+
+.primeiro-anuncio-imagem a {
+    background-color: #2f86d6;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.primeiro-anuncio-imagem img {
+    width: 13px
+}
