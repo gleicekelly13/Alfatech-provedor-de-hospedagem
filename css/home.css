@@ -135,3 +135,46 @@
 .primeiro-anuncio-imagem img {
     width: 13px
 }
+
+.secao-informacao {
+    padding: 35px 0px;
+    text-align: center;
+    
+}
+
+.secao-informacao h2 {
+    width: 900px;
+    font-size: 32px;
+    margin: 0px auto 0px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.card {
+    width: 33%;
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+    
+}
+
+.card img {
+    width: 100px;
+}
+
+.card h3 {
+    font-size: 18px;
+    color: #000000;
+}
+
+.card p {
+    font-size: 15px;
+}
