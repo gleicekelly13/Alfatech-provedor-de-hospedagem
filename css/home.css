@@ -280,4 +280,71 @@ table tbody tr:nth-child(even) {
     width: 13px;
 }
 
+.container-rodape {
+    background-color: #fff;
+    padding: 35px 0px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
 
+.logo-rodape {
+    width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-contatos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+.logo-rodape-imagem {
+    width: 90px;
+    height: 90px;
+}
+
+.logo-rodape-imagem img {
+    width: 100%;
+    height: 100%;
+}
+
+.logo-rodape h1 {
+    font-size: 32px;
+    color: #000000;
+}
+
+.logo-rodape p {
+    font-size: 16px;
+    font-weight: 600;
+    color: #2f86d6;
+}
+
+.container-contatos p {
+    font-size: 16px;
+    color: #000000;
+    line-height: 36px;
+    font-weight: 600;
+}
+
+.container-copyright {
+    padding: 20px 0px;
+    text-align: center;
+    background-color: #f1f3f7;
+}
+
+.container-copyright p {
+    font-size: 16px;
+    color: #000000;
+    font-weight: 600;
+}
+
+.container-copyright span {
+    font-size: 16px;
+    color: #2f86d6;
+}
