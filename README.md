@@ -14,3 +14,5 @@
 <img src = "https://github.com/gleicekelly13/Alfatech-provedor-de-hospedagem/assets/80974593/3b64742d-dde2-409f-8075-ee7fa7769cac" width = "500" />
 </div>
 <br>
+
+<h2 align="center">:hourglass: Status do projeto </h2>
