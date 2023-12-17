@@ -4,3 +4,7 @@
 <br>
 
 ## :desktop_computer: Desktop design
+<br>
+<div align = "center">
+<img src = "https://github.com/gleicekelly13/Alfatech-provedor-de-hospedagem/assets/80974593/976d3c73-0b1e-4044-a4a1-5541f5bf3b3d" width = "500" />
+</div>
