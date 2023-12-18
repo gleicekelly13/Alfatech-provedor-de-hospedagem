@@ -22,3 +22,5 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>O website possui duas páginas, e o usuário consegue interagir com o site podendo navegar em ambas as páginas, 
   através dos links no topo das duas páginas e nos botões do conteúdo principal da página index.</p>
+
+<p>O diferencial do site são as tabelas, responsáveis por exibir informações sobre os planos do provedor de hospedagem, e seus preços e características.</p>
