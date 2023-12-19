@@ -24,3 +24,6 @@
   através dos links no topo das duas páginas e nos botões do conteúdo principal da página index.</p>
 
 <p>O diferencial do site são as tabelas, responsáveis por exibir informações sobre os planos do provedor de hospedagem, e seus preços e características.</p>
+<br>
+
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
