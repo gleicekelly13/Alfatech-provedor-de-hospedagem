@@ -31,3 +31,8 @@
   <li>Inserir navegação entre as páginas;</li>
   <li>Utilizar a tag HTML `table` para criação das tabelas.</li>
 </ul>
+<br>
+
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p>Você pode acessar o projeto clicando aqui: https://gleicekelly13.github.io/Alfatech-provedor-de-hospedagem/</p>
+<br>
