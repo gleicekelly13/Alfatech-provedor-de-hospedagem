@@ -27,3 +27,7 @@
 <br>
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<ul>
+  <li>Inserir navegação entre as páginas;</li>
+  <li>Utilizar a tag HTML `table` para criação das tabelas.</li>
+</ul>
